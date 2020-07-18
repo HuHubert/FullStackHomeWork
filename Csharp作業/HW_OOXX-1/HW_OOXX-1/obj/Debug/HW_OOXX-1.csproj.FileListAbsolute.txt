@@ -1,0 +1,10 @@
+C:\Users\蔡旻哲\source\repos\HW_OOXX-1\HW_OOXX-1\bin\Debug\HW_OOXX-1.exe.config
+C:\Users\蔡旻哲\source\repos\HW_OOXX-1\HW_OOXX-1\bin\Debug\HW_OOXX-1.exe
+C:\Users\蔡旻哲\source\repos\HW_OOXX-1\HW_OOXX-1\bin\Debug\HW_OOXX-1.pdb
+C:\Users\蔡旻哲\source\repos\HW_OOXX-1\HW_OOXX-1\obj\Debug\HW_OOXX-1.csprojAssemblyReference.cache
+C:\Users\蔡旻哲\source\repos\HW_OOXX-1\HW_OOXX-1\obj\Debug\HW_OOXX_1.Form1.resources
+C:\Users\蔡旻哲\source\repos\HW_OOXX-1\HW_OOXX-1\obj\Debug\HW_OOXX_1.Properties.Resources.resources
+C:\Users\蔡旻哲\source\repos\HW_OOXX-1\HW_OOXX-1\obj\Debug\HW_OOXX-1.csproj.GenerateResource.cache
+C:\Users\蔡旻哲\source\repos\HW_OOXX-1\HW_OOXX-1\obj\Debug\HW_OOXX-1.csproj.CoreCompileInputs.cache
+C:\Users\蔡旻哲\source\repos\HW_OOXX-1\HW_OOXX-1\obj\Debug\HW_OOXX-1.exe
+C:\Users\蔡旻哲\source\repos\HW_OOXX-1\HW_OOXX-1\obj\Debug\HW_OOXX-1.pdb

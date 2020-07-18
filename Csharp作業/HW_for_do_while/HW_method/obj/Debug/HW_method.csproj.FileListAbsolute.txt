@@ -1,0 +1,30 @@
+C:\Users\蔡旻哲\source\repos\HW_method\HW_method\bin\Debug\HW_method.exe.config
+C:\Users\蔡旻哲\source\repos\HW_method\HW_method\bin\Debug\HW_method.exe
+C:\Users\蔡旻哲\source\repos\HW_method\HW_method\bin\Debug\HW_method.pdb
+C:\Users\蔡旻哲\source\repos\HW_method\HW_method\obj\Debug\HW_method.csprojAssemblyReference.cache
+C:\Users\蔡旻哲\source\repos\HW_method\HW_method\obj\Debug\HW_method.Form1.resources
+C:\Users\蔡旻哲\source\repos\HW_method\HW_method\obj\Debug\HW_method.Properties.Resources.resources
+C:\Users\蔡旻哲\source\repos\HW_method\HW_method\obj\Debug\HW_method.csproj.GenerateResource.cache
+C:\Users\蔡旻哲\source\repos\HW_method\HW_method\obj\Debug\HW_method.csproj.CoreCompileInputs.cache
+C:\Users\蔡旻哲\source\repos\HW_method\HW_method\obj\Debug\HW_method.exe
+C:\Users\蔡旻哲\source\repos\HW_method\HW_method\obj\Debug\HW_method.pdb
+C:\Users\蔡旻哲\source\repos\HW_for_do_while\HW_method\bin\Debug\HW_method.exe.config
+C:\Users\蔡旻哲\source\repos\HW_for_do_while\HW_method\bin\Debug\HW_method.exe
+C:\Users\蔡旻哲\source\repos\HW_for_do_while\HW_method\bin\Debug\HW_method.pdb
+C:\Users\蔡旻哲\source\repos\HW_for_do_while\HW_method\obj\Debug\HW_method.csprojAssemblyReference.cache
+C:\Users\蔡旻哲\source\repos\HW_for_do_while\HW_method\obj\Debug\HW_method.Form1.resources
+C:\Users\蔡旻哲\source\repos\HW_for_do_while\HW_method\obj\Debug\HW_method.Properties.Resources.resources
+C:\Users\蔡旻哲\source\repos\HW_for_do_while\HW_method\obj\Debug\HW_method.csproj.GenerateResource.cache
+C:\Users\蔡旻哲\source\repos\HW_for_do_while\HW_method\obj\Debug\HW_method.csproj.CoreCompileInputs.cache
+C:\Users\蔡旻哲\source\repos\HW_for_do_while\HW_method\obj\Debug\HW_method.exe
+C:\Users\蔡旻哲\source\repos\HW_for_do_while\HW_method\obj\Debug\HW_method.pdb
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_for_do_while\HW_method\bin\Debug\HW_method.exe.config
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_for_do_while\HW_method\bin\Debug\HW_method.exe
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_for_do_while\HW_method\bin\Debug\HW_method.pdb
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_for_do_while\HW_method\obj\Debug\HW_method.csprojAssemblyReference.cache
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_for_do_while\HW_method\obj\Debug\HW_method.Form1.resources
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_for_do_while\HW_method\obj\Debug\HW_method.Properties.Resources.resources
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_for_do_while\HW_method\obj\Debug\HW_method.csproj.GenerateResource.cache
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_for_do_while\HW_method\obj\Debug\HW_method.csproj.CoreCompileInputs.cache
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_for_do_while\HW_method\obj\Debug\HW_method.exe
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_for_do_while\HW_method\obj\Debug\HW_method.pdb

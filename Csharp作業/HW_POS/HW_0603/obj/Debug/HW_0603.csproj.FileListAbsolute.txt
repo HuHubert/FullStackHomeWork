@@ -1,0 +1,20 @@
+C:\Users\蔡旻哲\source\repos\HW_0603\HW_0603\bin\Debug\HW_0603.exe.config
+C:\Users\蔡旻哲\source\repos\HW_0603\HW_0603\bin\Debug\HW_0603.exe
+C:\Users\蔡旻哲\source\repos\HW_0603\HW_0603\bin\Debug\HW_0603.pdb
+C:\Users\蔡旻哲\source\repos\HW_0603\HW_0603\obj\Debug\HW_0603.BarForm.resources
+C:\Users\蔡旻哲\source\repos\HW_0603\HW_0603\obj\Debug\HW_0603.Properties.Resources.resources
+C:\Users\蔡旻哲\source\repos\HW_0603\HW_0603\obj\Debug\HW_0603.csproj.GenerateResource.cache
+C:\Users\蔡旻哲\source\repos\HW_0603\HW_0603\obj\Debug\HW_0603.csproj.CoreCompileInputs.cache
+C:\Users\蔡旻哲\source\repos\HW_0603\HW_0603\obj\Debug\HW_0603.exe
+C:\Users\蔡旻哲\source\repos\HW_0603\HW_0603\obj\Debug\HW_0603.pdb
+C:\Users\蔡旻哲\source\repos\HW_0603\HW_0603\obj\Debug\HW_0603.csprojAssemblyReference.cache
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_POS\HW_0603\bin\Debug\HW_0603.exe.config
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_POS\HW_0603\bin\Debug\HW_0603.exe
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_POS\HW_0603\bin\Debug\HW_0603.pdb
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_POS\HW_0603\obj\Debug\HW_0603.csprojAssemblyReference.cache
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_POS\HW_0603\obj\Debug\HW_0603.BarForm.resources
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_POS\HW_0603\obj\Debug\HW_0603.Properties.Resources.resources
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_POS\HW_0603\obj\Debug\HW_0603.csproj.GenerateResource.cache
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_POS\HW_0603\obj\Debug\HW_0603.csproj.CoreCompileInputs.cache
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_POS\HW_0603\obj\Debug\HW_0603.exe
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_POS\HW_0603\obj\Debug\HW_0603.pdb

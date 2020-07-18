@@ -1,0 +1,10 @@
+C:\Users\蔡旻哲\source\repos\HW_calculator\HW_calculator\bin\Debug\HW_calculator.exe.config
+C:\Users\蔡旻哲\source\repos\HW_calculator\HW_calculator\bin\Debug\HW_calculator.exe
+C:\Users\蔡旻哲\source\repos\HW_calculator\HW_calculator\bin\Debug\HW_calculator.pdb
+C:\Users\蔡旻哲\source\repos\HW_calculator\HW_calculator\obj\Debug\HW_calculator.csprojAssemblyReference.cache
+C:\Users\蔡旻哲\source\repos\HW_calculator\HW_calculator\obj\Debug\HW_calculator.Form1.resources
+C:\Users\蔡旻哲\source\repos\HW_calculator\HW_calculator\obj\Debug\HW_calculator.Properties.Resources.resources
+C:\Users\蔡旻哲\source\repos\HW_calculator\HW_calculator\obj\Debug\HW_calculator.csproj.GenerateResource.cache
+C:\Users\蔡旻哲\source\repos\HW_calculator\HW_calculator\obj\Debug\HW_calculator.csproj.CoreCompileInputs.cache
+C:\Users\蔡旻哲\source\repos\HW_calculator\HW_calculator\obj\Debug\HW_calculator.exe
+C:\Users\蔡旻哲\source\repos\HW_calculator\HW_calculator\obj\Debug\HW_calculator.pdb

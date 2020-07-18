@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\HW_Student_StructFrom\HW_Student_StructFrom\bin\Debug\HW_Student_StructFrom.exe.config
+C:\Users\User\Desktop\HW_Student_StructFrom\HW_Student_StructFrom\bin\Debug\HW_Student_StructFrom.exe
+C:\Users\User\Desktop\HW_Student_StructFrom\HW_Student_StructFrom\bin\Debug\HW_Student_StructFrom.pdb
+C:\Users\User\Desktop\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.StuStrFrom.resources
+C:\Users\User\Desktop\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.Properties.Resources.resources
+C:\Users\User\Desktop\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.csproj.GenerateResource.cache
+C:\Users\User\Desktop\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.exe
+C:\Users\User\Desktop\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.pdb
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.StuStrFrom.resources
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.Properties.Resources.resources
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.csproj.GenerateResource.cache
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.csproj.CoreCompileInputs.cache
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.exe
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.pdb
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_Student_StructFrom\HW_Student_StructFrom\bin\Debug\HW_Student_StructFrom.exe.config
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_Student_StructFrom\HW_Student_StructFrom\bin\Debug\HW_Student_StructFrom.exe
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_Student_StructFrom\HW_Student_StructFrom\bin\Debug\HW_Student_StructFrom.pdb
+C:\Users\蔡旻哲\Google 雲端硬碟\作業\Hubert的Csharp作業\HW_Student_StructFrom\HW_Student_StructFrom\obj\Debug\HW_Student_StructFrom.csprojAssemblyReference.cache

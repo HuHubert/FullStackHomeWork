@@ -1,0 +1,9 @@
+C:\Users\蔡旻哲\source\repos\HW_0601\HW_0601\obj\Debug\HW_0601.HiCsharp.resources
+C:\Users\蔡旻哲\source\repos\HW_0601\HW_0601\obj\Debug\HW_0601.Properties.Resources.resources
+C:\Users\蔡旻哲\source\repos\HW_0601\HW_0601\obj\Debug\HW_0601.csproj.GenerateResource.cache
+C:\Users\蔡旻哲\source\repos\HW_0601\HW_0601\obj\Debug\HW_0601.csproj.CoreCompileInputs.cache
+C:\Users\蔡旻哲\source\repos\HW_0601\HW_0601\bin\Debug\HW_0601.exe.config
+C:\Users\蔡旻哲\source\repos\HW_0601\HW_0601\bin\Debug\HW_0601.exe
+C:\Users\蔡旻哲\source\repos\HW_0601\HW_0601\bin\Debug\HW_0601.pdb
+C:\Users\蔡旻哲\source\repos\HW_0601\HW_0601\obj\Debug\HW_0601.exe
+C:\Users\蔡旻哲\source\repos\HW_0601\HW_0601\obj\Debug\HW_0601.pdb

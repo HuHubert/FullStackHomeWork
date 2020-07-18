@@ -1,0 +1,10 @@
+C:\Users\蔡旻哲\source\repos\HW_0602\HW_0602\bin\Debug\HW_0602.exe.config
+C:\Users\蔡旻哲\source\repos\HW_0602\HW_0602\bin\Debug\HW_0602.exe
+C:\Users\蔡旻哲\source\repos\HW_0602\HW_0602\bin\Debug\HW_0602.pdb
+C:\Users\蔡旻哲\source\repos\HW_0602\HW_0602\obj\Debug\HW_0602.LoanMoney.resources
+C:\Users\蔡旻哲\source\repos\HW_0602\HW_0602\obj\Debug\HW_0602.Properties.Resources.resources
+C:\Users\蔡旻哲\source\repos\HW_0602\HW_0602\obj\Debug\HW_0602.csproj.GenerateResource.cache
+C:\Users\蔡旻哲\source\repos\HW_0602\HW_0602\obj\Debug\HW_0602.csproj.CoreCompileInputs.cache
+C:\Users\蔡旻哲\source\repos\HW_0602\HW_0602\obj\Debug\HW_0602.exe
+C:\Users\蔡旻哲\source\repos\HW_0602\HW_0602\obj\Debug\HW_0602.pdb
+C:\Users\蔡旻哲\source\repos\HW_0602\HW_0602\obj\Debug\HW_0602.csprojAssemblyReference.cache

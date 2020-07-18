@@ -1,0 +1,10 @@
+C:\Users\蔡旻哲\source\repos\HW_Student_Grade\HW_Student_Grade\bin\Debug\HW_Student_Grade.exe.config
+C:\Users\蔡旻哲\source\repos\HW_Student_Grade\HW_Student_Grade\bin\Debug\HW_Student_Grade.exe
+C:\Users\蔡旻哲\source\repos\HW_Student_Grade\HW_Student_Grade\bin\Debug\HW_Student_Grade.pdb
+C:\Users\蔡旻哲\source\repos\HW_Student_Grade\HW_Student_Grade\obj\Debug\HW_Student_Grade.csprojAssemblyReference.cache
+C:\Users\蔡旻哲\source\repos\HW_Student_Grade\HW_Student_Grade\obj\Debug\HW_Student_Grade.Form1.resources
+C:\Users\蔡旻哲\source\repos\HW_Student_Grade\HW_Student_Grade\obj\Debug\HW_Student_Grade.Properties.Resources.resources
+C:\Users\蔡旻哲\source\repos\HW_Student_Grade\HW_Student_Grade\obj\Debug\HW_Student_Grade.csproj.GenerateResource.cache
+C:\Users\蔡旻哲\source\repos\HW_Student_Grade\HW_Student_Grade\obj\Debug\HW_Student_Grade.csproj.CoreCompileInputs.cache
+C:\Users\蔡旻哲\source\repos\HW_Student_Grade\HW_Student_Grade\obj\Debug\HW_Student_Grade.exe
+C:\Users\蔡旻哲\source\repos\HW_Student_Grade\HW_Student_Grade\obj\Debug\HW_Student_Grade.pdb
